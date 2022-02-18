@@ -1,0 +1,14 @@
+#status_pane {
+    border: 1px solid red; // debug
+    width: 80%;
+}
+
+#status_table {
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+#content_pane {
+    border: 1px solid red; // debug
+    width: 80%;
+}
